@@ -1,0 +1,1 @@
+A Doctor Counseling App with MERN stack allows virtual consultations. Users create accounts, browse doctors, schedule appointments, and engage in secure video/chat sessions. MongoDB, Express.js, React.js, and Node.js ensure seamless functionality. Features include authentication, reminders, payments, messaging, file sharing, and video conferencing, improving healthcare access.
